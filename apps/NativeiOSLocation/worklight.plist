@@ -1,11 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
 	<key>protocol</key>
 	<string>http</string>
 	<key>host</key>
-	<string></string>
+	<string/>
 	<key>port</key>
 	<string>10080</string>
 	<key>wlServerContext</key>
@@ -19,6 +19,6 @@
 	<key>wlUid</key>
 	<string>wY/mbnwKTDDYQUvuQCdSgg==</string>
 	<key>platformVersion</key>
-	<string>7.0.0.0</string>
+	<string>7.1.0.00.20150725-0007</string>
 </dict>
 </plist>

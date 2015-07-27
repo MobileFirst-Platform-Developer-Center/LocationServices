@@ -58,3 +58,4 @@ derby.log
 
 .jazzignore
 /pom.xml
+/*.backup.zip
